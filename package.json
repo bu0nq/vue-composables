@@ -1,0 +1,25 @@
+{
+    "name": "@bu0nq/vue-composables",
+    "description": "",
+    "type": "module",
+    "private": true,
+    "version": "0.1.0",
+    "main": "src/index.ts",
+    "module": "src/index.ts",
+    "imports": {
+        "#*": "./src/*"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bu0nq/vue-composables.git"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/bu0nq/vue-composables#readme"
+}
