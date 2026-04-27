@@ -1,16 +1,19 @@
 {
     "name": "@bu0nq/vue-composables",
-    "description": "",
     "type": "module",
-    "private": true,
     "version": "0.1.0",
+    "description": "Collection of essential Vue Composition Utilities",
+    "keywords": [
+        "vue",
+        "vue-composables"
+    ],
     "main": "src/index.ts",
     "module": "src/index.ts",
-    "imports": {
-        "#*": "./src/*"
-    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "peerDependencies": {
+        "vue": "^3.5.0"
     },
     "author": {
         "name": "bu0nq",
