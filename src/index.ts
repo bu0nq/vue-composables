@@ -1,1 +1,2 @@
-export * from './useBem'
+export * from './useBemElement'
+export * from './useBemModifier'
